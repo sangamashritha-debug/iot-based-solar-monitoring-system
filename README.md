@@ -1,5 +1,5 @@
-# iot-based-solar-monitoring-system
-An IoT-based Solar Monitoring System using ESP32 for real-time monitoring, solar tracking, dust detection, automated cleaning, and cloud monitoring.
+# Iot-based-solar-monitoring-system
+An IoT-based Solar Monitoring System that uses an ESP32 microcontroller to monitor the performance of a solar panel in real time. The system includes environmental monitoring, solar tracking, automatic cleaning, damage detection, and cloud connectivity.
 ## Project Overview
 
 This project is an IoT-based Solar Monitoring System designed to monitor the health and performance of a solar panel in real time using an ESP32 microcontroller.
